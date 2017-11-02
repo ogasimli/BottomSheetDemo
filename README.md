@@ -1,6 +1,6 @@
 # Bottom Sheet Demo
 
-This app shows animation possibilities using the slide offset value of Android's BottomSheet. Please follow [this link]() for more information.
+This app shows animation possibilities using the slide offset value of Android's BottomSheet. Please follow [this link](https://medium.com/@orkhan.gasimli/choreographic-animations-with-androids-bottomsheet-fef06e6ecb81) for more information.
 
 ## License
 
